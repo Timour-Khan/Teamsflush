@@ -1,3 +1,5 @@
+#Flussssssh TEAM #ATEA
+
 $ErrorActionPreference = 'silentlycontinue'
 
 $Button = [Windows.MessageBoxButton]::YesNoCancel
