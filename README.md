@@ -55,4 +55,8 @@ Clearing those locations + self elevating command.
 ## Authors
 Bit of code from a lots of people, modified by Timour Varrasse @Atea 
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
 
