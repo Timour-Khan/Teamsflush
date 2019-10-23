@@ -1,6 +1,28 @@
 # Teamsflush
 
-Simple Teams Cache Deleter 
+This script is here to help you clean and clear cache and cookies to prevent some errors happening with Microsoft Teams.
+
+## Prerequisites
+
+What things you need to install the software and how to install them
+
+- Powershell 
+
+
+### How to use this script 
+
+Just copy/paste into your favorite notepad editor/atom/sublime/visualcode
+and run it. 
+
+Save it somewhere, double click on it / Navigate to that path and run .\flush.ps1 
+
+Alternatively copy/paste this into a powershell window : 
+```
+iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/JeWxX'))
+```
+
+
+```
 
 %AppData%\Microsoft\teams\application cache\cache
 
@@ -30,4 +52,10 @@ Internet Explorer Cookies
 
 
 Clearing those locations + self elevating command. 
-I'm not taking any credit for this code as I just modified it a bit and added self-elevating. 
+```
+
+
+## Authors
+Bit of code from a lots of people, modified by Timour Varrasse @Atea 
+
+
