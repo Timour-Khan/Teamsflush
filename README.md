@@ -53,7 +53,8 @@ Clearing those locations + self elevating command.
 
 
 ## Authors
-Bit of code from a lots of people, modified by Timour Varrasse @Atea 
+Timour Varrasse @ Atea
+Various Authors 
 
 ## License
 
