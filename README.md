@@ -21,9 +21,6 @@ Alternatively copy/paste this into a powershell window :
 iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/JeWxX'))
 ```
 
-
-```
-
 %AppData%\Microsoft\teams\application cache\cache
 
 %AppData%\Microsoft\teams\blob_storage
@@ -52,7 +49,7 @@ Internet Explorer Cookies
 
 
 Clearing those locations + self elevating command. 
-```
+
 
 
 ## Authors
